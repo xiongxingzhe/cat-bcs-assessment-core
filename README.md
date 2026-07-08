@@ -1,5 +1,7 @@
 # Cat BCS Assessment Core
 
+[![CI](https://github.com/xiongxingzhe/cat-bcs-assessment-core/actions/workflows/ci.yml/badge.svg)](https://github.com/xiongxingzhe/cat-bcs-assessment-core/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Minimal helpers for mapping cat Body Condition Score (1-9) to clinical bands.
 
 Built by [pawsandpounds.com](https://pawsandpounds.com).
